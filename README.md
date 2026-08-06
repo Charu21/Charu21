@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu01smita28&label=Profile%20views&color=0e75b6&style=flat&base=1550" alt="charu01smita28" /> </p>
 
-<h4 align="justify">9 years shipping software. 5 years deep in backends and full-stack (Python, Java, Node.js) - then LLMs hit, and I went all-in. No looking back.<br><br>3 years in, I design and ship <b>production multi-agent systems</b> - agentic RAG pipelines that retrieve with precision, reason across tools, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></h4>
+<h4 align="justify">9 years shipping software. 6 years deep in backends and full-stack (Python, Java, Node.js) - then LLMs hit, and I went all-in. No looking back.<br><br>3 years in, I design and ship <b>production multi-agent systems</b> - agentic RAG pipelines that retrieve with precision, reason across tools, evaluate themselves, fail gracefully, and don't bankrupt the company on API calls. <i>If a system can't show you why it gave that answer, it shouldn't be in production.</i></h4>
 
 - **13K+ users** on SciWeave - multi-agent RAG across **250M+ papers**, handling **10K+ monthly queries** with cited answers in **<6 seconds**
 - **10x cost reduction** ($90 → $9/month) via hybrid DeBERTa + LLM classification across **275 intent labels**, semantic caching & tiered routing
